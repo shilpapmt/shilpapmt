@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shilpa prakash</h1>
+<h1 align="center">Hi 👋, I'm Shilpa Prakash</h1>
 <h3 align="center">A passionate Software Tester from UAE.</h3>
 
 - 🌱 I’m currently learning **Agile,Scrum,JIRA & API Testing**
